@@ -21,7 +21,7 @@ function evenAll(nums){
     }
     return EvenArray;
 }
-let nums = [21, 51, 55, 54, 98, 14]; 
+let nums = [21, 51, 55, 54]; 
 let finalResult = evenAll(nums); 
 console.log(finalResult); 
 
